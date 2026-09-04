@@ -1,4 +1,4 @@
-# LID Option Menu Mod
+# LID RND-STORAGE MOD
 
 A small mod for **LET IT DIE** that adds extra options to the pause menu and a Free Camera hotkey.
 
